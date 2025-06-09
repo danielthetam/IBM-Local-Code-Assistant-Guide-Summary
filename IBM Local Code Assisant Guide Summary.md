@@ -82,7 +82,7 @@ Simply:
 Embedding models are trained to allow data (such as images, text, audio, etc.) to be expressed mathematically using vector representations. Word embeddings are a method of representing words using dense real-valued vectors in a multi-dimensional space such that it captures the semantic information of a word, as well as its relations to other words. These relations can be measured by observing the vectors (e.g. their distance, direction, etc.).
 
 ## Continue
-Continue is a tool used to create a personalised AI code assisstant. This allows us to interact with our Ollama models through within the comfort of our editor. In this case we use the available VS Code extension to integrate our granite model (run locally using ollama) with VS code.
+Continue is a tool used to create a personalised AI code assisstant. This allows us to interact with our Ollama models within the comfort of our editor. In this case we use the available VS Code extension to integrate our granite model (run locally using ollama) with VS code.
 
 ## My config.yaml file for reference
 ```
